@@ -1,0 +1,23 @@
+{
+  "name": "chatmoulette",
+  "version": "0.1.0",
+  "description": "un chat pour moulette",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pas encore"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "moi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "type": "module"
+}
